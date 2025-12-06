@@ -1,6 +1,6 @@
 # puf_irs_crosswalk
 
-A project to develop correspondence between the 2015 Public Use File (PUF) data and published IRS aggregates so that we know which IRS spreadsheets and cell correspond to which variables on the PUF. This is important for developing targets for the TMD project.
+A project to develop correspondence between the 2015 Public Use File (PUF) data and published IRS aggregates so that we know which IRS spreadsheets and cells correspond to which variables on the PUF. This is important for developing targets for the TMD project.
 
 The basic steps are to:
 
